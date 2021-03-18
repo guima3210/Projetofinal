@@ -23,8 +23,8 @@ public class Conecta {
 
         try {
             //String serverName = "25.73.32.220";
-            //String serverName = "192.168.0.10";
-            String serverName = "127.0.0.1";
+            String serverName = "192.168.0.10";
+            //String serverName = "127.0.0.1";
             String mydatabase = "Clinica";
 
             String username = "Teste";
